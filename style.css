@@ -1,0 +1,92 @@
+/*ads*/
+#adngin-leaderboard_1_client_panel-0 ,#snigel-adhesive-contentextension-bottom, .snigel-adhesive{
+  display: none;
+}
+/*premium_remove*/
+.text-warning , li.alert , .offset-md-1 {
+  display: none;
+}
+
+.a{
+  display: none
+}
+
+/*Experimental*/
+.sidebar2 {
+  display: none;
+}
+/*Background*/
+body {
+  background-color: #0f0f0f;
+}
+
+.card-header {
+  background-color: #061730;
+}
+
+/*Universal Experimental*/
+.div {
+  border-radius: 25px;
+}
+
+.navbar-top, .form-select , .form-control, .btn-primary , .border-end, .pb-4 , .card-header , .position-relative , .input-group-text , .card , .bg-card , .btn , .show , bg-white , .modal-content , .alert {
+  border-radius: 25px;
+}
+
+.bg-200 {
+  border-radius: 25px;
+  padding-left: 15px;
+}
+
+table {
+  border-bottom-left-radius: 25px
+}
+table {
+  border-bottom-right-radius: 25px
+}
+.card-header {
+  border-top-left-radius: 25px;
+}
+.card-header{
+  border-top-right-radius: 25px;
+}
+.bg-white {
+  border-radius: 25px;
+}
+
+.ServerUUID {
+  border-radius: 25px;
+}
+
+#AVpl3ayer2 {
+  display: none;
+}
+
+.load11111 {
+  display: none;
+}
+
+#slot3333 {
+  display: none;
+}
+
+#av-inner {
+  display: none;
+}
+#cf-chl-widget-1quf0{
+  border-radius: 25px;
+  border: 1px solid #000000;
+}
+/*extra columns at end*/
+.col-sm {
+  display: none;
+}
+
+.navbar {
+  font-size:18px;
+}
+
+.dropdown-item {
+  padding: 10%;
+  border-radius: 25px;
+}
